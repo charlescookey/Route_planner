@@ -1,6 +1,6 @@
 # Route Planning Project
 
-This repo contains the final code for my version of the Route Planning project.
+This repository contains the final code for my version of the Route Planning project. The code uses the A* Search Algorithm to find the shortest distance between two points on the map
 
 <img src="map.png" width="600" height="450" />
 
